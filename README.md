@@ -1,2 +1,2 @@
 # Moba_Game
-This is a demo of a MOBA type game
+This is a first-person MOBA genre game
